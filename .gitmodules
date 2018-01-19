@@ -1,0 +1,6 @@
+[submodule "CalcAIC"]
+	path = CalcAIC
+	url = git@github.com:Atsuto0519/CalcAIC
+[submodule "LSTMpredictQAM"]
+	path = LSTMpredictQAM
+	url = git@github.com:Atsuto0519/LSTMpredictQAM
